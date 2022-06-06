@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Kayode Ogunnowo</h1>
-I am Kayode Ogunnowo, a full-stack developer
+I am Kayode Ogunnowo. I am a full-stack developer.
 
 <!--
 **dansagam/dansagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
