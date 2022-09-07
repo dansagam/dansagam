@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Kayode Ogunnowo</h1>
-I am Kayode Ogunnowo. I am a full-stack developer.
+I am Kayode Ogunnowo. I am a full-stack developer. Nodejs, Angular, React, Typescript, Python.
 
-I love to write Bugs 😄
+⚡ Fun fact: ...  I love to write <strong>Bugs 😄</strong>
 
 <!--
 **dansagam/dansagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
