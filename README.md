@@ -6,6 +6,11 @@ I am Kayode Ogunnowo. I am a full-stack developer. Nodejs, Angular, React, Types
 
 ![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansagam&theme=radical&hide=contribs,prs)
 
+- 🔭 I’m currently learning on GoLang and Python.
+- 🔭 I’m into Mysql, Postgres and mongodb databases.
+
+
+[![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dansagam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dansagam/dansagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
