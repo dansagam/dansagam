@@ -7,7 +7,7 @@ I am Kayode Ogunnowo. I am a full-stack developer. Nodejs, Nestjs Angular, React
 ![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansagam&theme=radical&hide=contribs,prs)
 
 - 🔭 I’m currently learning on GoLang and Python.
-- 🔭 I’m into Mysql, Postgres and mongodb databases.
+- 🔭 I’m into Postgres and mongodb databases.
 
 
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dansagam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
