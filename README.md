@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Kayode Ogunnowo</h1>
-I am Kayode Ogunnowo. I am a full-stack developer. Nodejs, Angular, React, Typescript, Python.
+I am Kayode Ogunnowo. I am a full-stack developer. Nodejs, Nestjs Angular, React, Nextjs, Typescript, Python.
 
 ⚡ Fun fact: ...  I love to write <strong>Bugs 😄</strong>
 
