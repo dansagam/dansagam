@@ -4,7 +4,7 @@ I am Kayode Ogunnowo. I am a full-stack developer. I speak TypeScript, JavaScrip
 
 ⚡ Fun fact: ...  I love to write <strong>Bugs 😄</strong>.
 
-![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansagam&theme=radical)
+![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansagam&theme=radical&show_icons=true&bg_color=00000000)
 
 - 🔭 I’m currently learning on GoLang, rust and Python.
 - 🔭 I’m into PostgreSQL and MongoDB databases.
