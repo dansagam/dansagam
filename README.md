@@ -9,7 +9,7 @@ I am Kayode Ogunnowo. I am a full-stack developer. I speak TypeScript, JavaScrip
 - 🔭 I’m currently learning on GoLang, rust and Python.
 - 🔭 I’m into PostgreSQL and MongoDB databases.
 - 😄 Pronouns: He/Him.
-- 🔭 Backend stack: Nestjs, ExpressJs, NodeJs. Django(Learning)
+- 🔭 Backend stack: Nestjs, ExpressJs, NodeJs. Django(Python)
 - 🔭 Frontend Stack: ReactJs, AngularJs, NextJs
 - 
 
