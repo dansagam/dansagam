@@ -6,7 +6,7 @@ I am Kayode Ogunnowo. I am a full-stack developer. I speak TypeScript, JavaScrip
 
 ![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansagam&count_private=true&theme=tokyonight&show_icons=true&bg_color=00000000)
 
-- 🔭 I’m currently learning on GoLang, rust and Python.
+- 🔭 I’m currently learning on GoLang and rust.
 - 🔭 I’m into PostgreSQL and MongoDB databases.
 - 😄 Pronouns: He/Him.
 - 🔭 Backend stack: Nestjs, ExpressJs, NodeJs. Django(Python)
