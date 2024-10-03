@@ -13,8 +13,12 @@ I am Kayode Ogunnowo. I am a full-stack developer. I speak TypeScript, JavaScrip
 - 🔭 Frontend Stack: ReactJs, AngularJs, NextJs
 - 
 
+<!-- 
 
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dansagam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
 <!--
 **dansagam/dansagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
