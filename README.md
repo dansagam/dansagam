@@ -11,7 +11,7 @@ I am Kayode Ogunnowo. I am a full-stack developer. I speak TypeScript, JavaScrip
 - 😄 Pronouns: He/Him.
 - 🔭 Backend stack: Nestjs, ExpressJs, NodeJs. Django(Python)
 - 🔭 Frontend Stack: ReactJs, AngularJs, NextJs
-- 
+- Mobile: React Native
 
 <!-- 
 
